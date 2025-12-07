@@ -4,7 +4,6 @@ import codings from "../../assets/lottie/coding.json";
 import { ThemeContext } from "../../contexts/theme-context";
 import { aboutData } from "../../data/about-data";
 import styles from "../../styles/about.module.css";
-import AnimationLottie from "../Animation";
 import Animation from "../Animation";
 
 function About() {
